@@ -104,7 +104,7 @@ You wouldn’t give nuclear launch codes to a podcast either.
 
 
 <details>
-  <summary>--------- NOT A ORG ! --------</summary>
+  <summary>--------- i am not here! --------</summary>
 
 | Organisation | Type | GitHub |
 |-------------|------|--------|
