@@ -108,19 +108,19 @@ You wouldn’t give nuclear launch codes to a podcast either.
 
 | Organisation | Type | GitHub |
 |-------------|------|--------|
-| AiCodeCraft | n.A. | [AiCodeCraft](https://github.com/AiCodeCraft) |
-| Codey-LAB | n.A. | [Codey-LAB](https://github.com/Codey-LAB) |
-| Command-n-Conquer | n.A. | [Command-n-Conquer](https://github.com/Command-n-Conquer) |
-| EmojiQL | n.A. | [EmojiQL](https://github.com/EmojiQL) |
-| ESOL-License | n.A. | [ESOL-License](https://github.com/ESOL-License) |
-| koeniglichepost | n.A. | [koeniglichepost](https://github.com/koeniglichepost) |
-| MiniGreX | n.A. | [MiniGreX](https://github.com/MiniGreX) |
-| NemesisCyberForce | n.A. | [NemesisCyberForce](https://github.com/NemesisCyberForce) |
-| PDF-CVE | n.A. | [PDF-CVE](https://github.com/PDF-CVE) |
-| RustySafe | n.A. | [RustySafe](https://github.com/RustySafe) |
-| SDCPT | n.A. | [SDCPT](https://github.com/SDCPT) |
-| System-Hell-Provocation | n.A. | [System-Hell-Provocation](https://github.com/System-Hell-Provocation) |
-| Wall-of-Shames | n.A. | [Wall-of-Shames](https://github.com/Wall-of-Shames) |
+| AiCodeCraft | AI | [AiCodeCraft](https://github.com/AiCodeCraft) |
+| Codey-LAB | PET | [Codey-LAB](https://github.com/Codey-LAB) |
+| Command-n-Conquer | GAME | [Command-n-Conquer](https://github.com/Command-n-Conquer) |
+| EmojiQL | FUN-EDU | [EmojiQL](https://github.com/EmojiQL) |
+| ESOL-License | ESOL | [ESOL-License](https://github.com/ESOL-License) |
+| koeniglichepost | GAME | [koeniglichepost](https://github.com/koeniglichepost) |
+| MiniGreX | SPEECH | [MiniGreX](https://github.com/MiniGreX) |
+| NemesisCyberForce | SEC | [NemesisCyberForce](https://github.com/NemesisCyberForce) |
+| PDF-CVE | SEC-FUN | [PDF-CVE](https://github.com/PDF-CVE) |
+| RustySafe | SECRET | [RustySafe](https://github.com/RustySafe) |
+| SDCPT | SECRET | [SDCPT](https://github.com/SDCPT) |
+| System-Hell-Provocation | SATIRE | [System-Hell-Provocation](https://github.com/System-Hell-Provocation) |
+| Wall-of-Shames | ANTI-FRAUD | [Wall-of-Shames](https://github.com/Wall-of-Shames) |
 
 </details>
 
